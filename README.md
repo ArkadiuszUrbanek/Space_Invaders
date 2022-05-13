@@ -1,1 +1,1 @@
-# Cosmic Intruders
+# Gra przypominająca w założeniach Space Invaders
