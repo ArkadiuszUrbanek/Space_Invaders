@@ -1,0 +1,10 @@
+# Build directories
+Debug/
+CPP_SFML/Debug/
+
+# IDE and tool-specific files
+.vs/
+*.vcxproj.user
+
+# Game specific files
+CPP_SFML/scores.csv

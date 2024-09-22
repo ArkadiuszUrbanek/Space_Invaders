@@ -23,7 +23,7 @@ state_playing::state_playing(state_machine& machine, sf::RenderWindow& window) :
 	m_text_button = button(m_font, 46, sf::Color::White, sf::Text::Style::Bold, sf::Color::Transparent);
 
 	m_background.setTexture(m_background_image);
-	m_background.setTextureRect(sf::IntRect{ (int)0, (int)0, (int)m_background_image.getSize().x, (int)m_background_image.getSize().y - hud::m_HUD_TOP_HEIGHT - hud::m_HUD_BOTTOM_HEIGHT });
+	m_background.setTextureRect(sf::IntRect{ (int)0, (int)0, (int)m_background_image.getSize().x, (int)m_background_image.getSize().y });//  - hud::m_HUD_TOP_HEIGHT - hud::m_HUD_BOTTOM_HEIGHT
 
 }
 
