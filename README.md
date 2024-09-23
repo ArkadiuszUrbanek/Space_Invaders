@@ -1,5 +1,5 @@
 # 1. Project description
-The project was intended to develop a video game inspired by the once highly popular arcade game [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders). The game, in its concept, is very simple. The player has a limited number of lives and an infinite amount of ammunition. The goal is to defend against the space invaders that are advancing toward the player. The game ends when the player loses all their lives or when any invader breaks through the player's defenses.
+The project was intended to develop a video game inspired by the once highly popular arcade game [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders). In its concept, the game rules are very simple. Having a limited number of lives and an infinite amount of ammunition, the player's goal is to defend against the space invaders that are advancing toward them. The game ends when the player loses all their lives or when any invader breaks through the player's defenses.
 
 # 2. Screenshots
 ![gameplay](https://github.com/user-attachments/assets/b73bfcc4-2899-4aab-aa23-cac7778dd727)
